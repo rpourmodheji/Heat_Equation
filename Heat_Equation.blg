@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Heat_Equation.aux
+The style file: biblatex.bst
+I couldn't open database file bible.bib
+---line 21 of file Heat_Equation.aux
+ : \bibdata{Heat_Equation-blx,bible
+ :                                 }
+I'm skipping whatever remains of this command
+Database file #1: Heat_Equation-blx.bib
+Biblatex version: 3.13
+(There was 1 error message)

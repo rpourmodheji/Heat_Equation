@@ -1,0 +1,376 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage[utf8]{inputenc}
+%\usepackage{hyperref}
+
+\usepackage{hyperref}
+%\usepackage[hypcap]{caption}
+%\usepackage[backend=bibtex,style=nature]{biblatex}
+\usepackage[backend=bibtex,style=nature]{biblatex}
+\usepackage[english]{babel}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+\usepackage{latexsym}
+
+\usepackage{url}
+\usepackage[nodisplayskipstretch]{setspace}
+\setstretch{1}
+\usepackage[percent]{overpic}
+\usepackage{mdframed}
+\usepackage{framed}
+\usepackage{bm}
+\usepackage{bigints}
+%\usepackage{mtpro2}
+\usepackage{relsize}
+\usepackage{mathtools}
+\usepackage{scalerel}
+%\usepackage{classicthesis-ldpkg}
+\usepackage[titletoc,toc,title]{appendix}
+\usepackage{chngcntr}
+\usepackage{empheq}
+%\usepackage{epstopdf}
+\usepackage{rotating}
+%\usepackage{cleveref}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{calrsfs}
+
+\usepackage{tikz}
+\usepackage{colortbl}
+\newcommand\y{\cellcolor{clight2}}
+\definecolor{clight2}{RGB}{212, 237, 244}%
+\newcommand\tikznode[3][]%
+{\tikz[remember picture,baseline=(#2.base)]
+	\node[minimum size=0pt,inner sep=0pt,#1](#2){#3};%
+}
+\tikzset{>=stealth}
+\renewcommand\vec[1]{\mathbf{#1}}
+
+
+\parindent = 0pt
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+
+\hypersetup{colorlinks=true,linkcolor=blue,filecolor=blue,urlcolor=blue,citecolor=blue}
+
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+
+\newcommand*\widefbox[1]{\fbox{\hspace{2em}#1\hspace{2em}}}
+\newcommand{\citelink}[2]{\hyperlink{cite.\therefsection @#1}{#2}}
+\newcommand{\bDiamond}{\mathbin{\Diamond}}
+\newcommand{\bLozenge}{\mathbin{\blacklozenge}}
+
+\newcommand{\lone}{ \bar{\lambda}_{1} }
+\newcommand{\ltwo}{ \bar{\lambda}_{2} }
+\newcommand{\lthree}{ \bar{\lambda}_{3} }
+
+\newcommand{\li}{ \bar{\lambda}_{i} }
+\newcommand{\Rb}{ \bar{R} }
+\newcommand{\myJ}{ \mathcal{J}}
+
+\newcommand{\PDfirst}[2]{ \dfrac{\partial #1}{\partial #2}  }
+
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+
+
+\def\stretchint#1{\vcenter{\hbox{\stretchto[220]{\displaystyle\oint}{#1}}}}
+\def\scaleint#1{\vcenter{\hbox{\scaleto[30ex]{\displaystyle\oint}{#1}}}}
+
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+
+\addbibresource{bible.bib}
+
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+
+%\graphicspath{ {C:/Users/r.pourmodheji/Desktop/1st/Images_all/} }
+%\graphicspath{ {/Users/Reza/Desktop/2nd/Images_all/} }
+
+%-----------------------------------------------------------------
+%-----------------------------------------------------------------
+\newcolumntype{S}[2]{>{ \minipage[c][#1][c]{#2} }c<{\raggedright \arraybackslash \endminipage}}
+\newcolumntype{R}[2]{>{ \minipage[c][#1][c]{#2} }c<{\centering \arraybackslash \endminipage}}
+%#################################################################
+%#################################################################
+%#################################################################
+\begin{document}
+	
+	\fontsize{12}{14}\selectfont
+	
+	\setlength{\belowdisplayskip}{20pt} \setlength{\belowdisplayshortskip}{20pt}
+	\setlength{\abovedisplayskip}{10pt} \setlength{\abovedisplayshortskip}{10pt}
+	
+	%#################################################################
+%	\begin{center}
+%		{\fontsize{20}{22}\selectfont
+%			Energy based strength theory for soft membranes \\[1em]}
+%		
+%		Reza Pourmodheji\textsuperscript{a}~~~~~~~~Shaoxing Qu\textsuperscript{b}~~~~~~~~Honghui Yu\textsuperscript{a*}\\[2ex]
+%		
+%		{\fontsize{8}{10}\selectfont
+%			\textsuperscript{a}Department of Mechanical Engineering
+%			The City College of New York, New York, NY 10031\\
+%			\textsuperscript{b}State Key Laboratory of Fluid 
+%			Power and Mechatronic, 
+%			Key Laboratory of Soft Machines and 
+%			Smart Devices of Zhejiang Province, 
+%			Department of Engineering Mechanics, 
+%			Zhejiang University, 
+%			Hangzhou 310027, China }
+%	\end{center}
+%	
+%	
+	
+	
+	\section*{Heat Equation}
+	
+	We are supposed to solve the Initial-Boundary Volume Problem.
+	
+	
+	\begin{gather}
+			{\partial u\over\partial t} = \nabla^2 u + f \quad \hbox{in }\Omega\times(0, T], \\
+			u = u_{_\mathrm{D}} \hbox{on } \partial \Omega\times(0, T], \\
+			u = u_{_0} \mbox{at } t=0{\thinspace .}
+	\end{gather}
+	
+	So we are supposed to find $u(x,y,t)$ in the domain $\Omega$ through $(0,T]$.
+	
+	
+	We first discretize in time $t$. So say
+	
+	\begin{gather}
+	{\partial u\over\partial t} = \dfrac{u^{n+1}(x,y)-u^n(x,y)}{\Delta t}
+	\end{gather}
+	
+	The ${n+1}$ means at the time $t=t_{n+1}$. Thus
+	
+	\begin{gather}
+	 \dfrac{u^{n+1}(x,y)-u^n(x,y)}{\Delta t} = \nabla^2u^{n+1}(x,y)+ f^{n+1}(x,y)
+	\end{gather}
+	
+	and
+	
+	
+	\begin{gather}
+		u^{n+1}(x,y)-u^n(x,y) = \nabla^2u^{n+1}(x,y)\Delta t + f^{n+1}(x,y) \Delta t
+	\end{gather}
+	
+	or
+	
+	\begin{gather}
+	u^{n+1}(x,y) - \nabla^2u^{n+1}(x,y)\Delta t  = u^n(x,y) + f^{n+1}(x,y) \Delta t
+	\end{gather}
+	
+	Now take a function $v(x,y,t)$ which vanishes on the boundaries and multiply the PDE and the initial conditions by it so
+	
+	\begin{gather}
+	\big( u^{n+1}(x,y) - \nabla^2u^{n+1}(x,y)\Delta t \big)v^{n+1}(x,y)  = \big(u^n(x,y) + f^{n+1}(x,y) \Delta t\big)v^{n+1}(x,y)
+	\end{gather}
+	
+	\begin{gather}
+		u(x,y)v(x,y) = u_0(x,y)v(x,y)
+	\end{gather}
+	
+	We do the initial condition for descritization purposes.
+	
+	Take the integral over the area $\Omega$.
+	
+	\begin{gather}
+	\begin{split}
+		 \bigintssss_{\Omega} \big( u^{n+1}(x,y) - \nabla^2u^{n+1}(x,y)&\Delta t \big)v^{n+1}(x,y)\,dA  =\\
+		& \bigintssss_{\Omega} \big(u^n(x,y) + f^{n+1}(x,y) \Delta t\big)v^{n+1}(x,y)\,dA
+	\end{split}
+	\end{gather}
+	
+	\begin{gather}
+	\begin{split}
+		\bigintssss_{\Omega} u(x,y)v(x,y)\,dA = \bigintssss_{\Omega} u_0(x,y)v(x,y)\,dA
+	\end{split}
+	\end{gather}
+	
+	Let's handle the main PDE, and let's call $u=u^{n+1}(x,y)$ which is supposed to be sought at every increment and all state variable of $n+1$.
+	
+	\begin{gather}
+	\begin{split}
+	\bigintssss_{\Omega} uv\,dA  - \bigintssss_{\Omega} v\nabla^2u\Delta t \,dA =  \bigintssss_{\Omega} \big(u^n + f \Delta t\big)v\,dA
+	\end{split}
+	\end{gather}
+	
+	The second term
+	
+	\begin{gather}
+	\begin{split}
+	\Delta t \bigintssss_{\Omega} v\nabla^2u \,dA = \Delta t \bigintssss_{\Omega} \nabla.(v\nabla u) \,dA - \Delta t \bigintssss_{\Omega} \nabla v.\nabla u \,dA 
+	\end{split}
+	\end{gather}
+	
+	The second integral can be taken over the boundary.
+	
+	\begin{gather}
+	\begin{split}
+	 \bigintssss_{\Omega} \nabla.(v\nabla u) \,dA = \bigintssss_{\partial\Omega} v(\nabla u).\textbf{n} \,dc
+	\end{split}
+	\end{gather}
+	
+	so because $v(x,y)$ vanishes on the boundary
+	
+	\begin{gather}
+	\begin{split}
+	\bigintssss_{\Omega} \nabla.(v\nabla u) \,dA = \bigintssss_{\partial\Omega} v(\nabla u).\textbf{n} \,dc = 0
+	\end{split}
+	\end{gather}
+	
+	and thus the weak form of the PDE becomes
+	
+	\begin{gather}
+	\begin{split}
+	\Delta t \bigintssss_{\Omega} v\nabla^2u \,dA = - \Delta t \bigintssss_{\Omega} \nabla v.\nabla u \,dA 
+	\end{split}
+	\end{gather}
+	
+	
+	\begin{gather}
+	\begin{split}
+	\bigintssss_{\Omega} uv\,dA + \Delta t \bigintssss_{\Omega} \nabla v.\nabla u \,dA  =  \bigintssss_{\Omega} \big(u^n + f \Delta t\big)v\,dA
+	\end{split}
+	\end{gather}
+	
+	\begin{gather}
+	\begin{split}
+	a_{n+1}(u,v) = \bigintssss_{\Omega} uv\,dA + \Delta t \bigintssss_{\Omega} \nabla v.\nabla u \,dA \\
+	L_{n+1}(u,v) = \bigintssss_{\Omega} \big(u^n + f \Delta t\big)v\,dA
+	\end{split}
+	\end{gather}
+	
+	and
+	
+	\begin{gather}
+	\begin{split}
+	a_{n+1}(u,v) = L_{n+1}(u,v)
+	\end{split}
+	\end{gather}
+	
+	
+	Second the initial condition.
+	
+	\begin{gather}
+	\begin{split}
+	\bigintssss_{\Omega} u(x,y)v(x,y)\,dA = \bigintssss_{\Omega} u_0(x,y)v(x,y)\,dA
+	\end{split}
+	\end{gather}
+	
+	and
+	
+	\begin{gather}
+	\begin{split}
+	\bigintssss_{\Omega} uv\,dA = \bigintssss_{\Omega} u_0v\,dA
+	\end{split}
+	\end{gather}
+	
+	
+	\begin{gather}
+	\begin{split}
+		a_0(u(x,y),v(x,y)) = L_0(u_0(x,y),v(x,y))
+	\end{split}
+	\end{gather}
+	
+	We project the values of the initial conditions to the nodal points.
+	
+	\section*{Solution}
+	
+	So we are supposed to find the solution
+	
+	\begin{gather}
+	\begin{split}
+	u(x,y;t) \in V 
+	\end{split}
+	\end{gather}
+	
+	and the test function is
+	
+	\begin{gather}
+	\begin{split}
+	v(x,y;t) \in \hat{V}
+	\end{split}
+	\end{gather}
+	
+	We do the descritization so at each time $t$
+	
+	
+	\begin{gather}
+	\begin{split}
+		u = \sum_{i=1}^{N}U_i\phi_i
+	\end{split}
+	\end{gather}
+	
+	\begin{gather}
+	\begin{split}
+		v = \sum_{i=1}^{N}V_i\phi_i
+	\end{split}
+	\end{gather}
+	
+	at the time $t=0$
+	
+	\begin{gather}
+	\begin{split}
+	u^0 = \sum_{i=1}^{N}U^0_i\phi_i
+	\end{split}
+	\end{gather}
+	
+	
+	
+	\subsection*{Exact Solution}
+	
+	Let's say the solution is
+	
+	\begin{gather}
+	\begin{split}
+	u = 1 + x^2 + \alpha y^2 + \beta t
+	\end{split}
+	\end{gather}
+	
+	Pluging it into the PDE gives
+	
+	\begin{gather}
+	\begin{split}
+	 \beta = 2 + 2\alpha + f(x,y,t)
+	\end{split}
+	\end{gather}
+	
+	thus
+	
+	\begin{gather}
+	\begin{split}
+		f(x,y,t) = \beta - 2 - 2\alpha
+	\end{split}
+	\end{gather}
+	
+	Let's assume the BC is just what we have for PDE, so
+	
+	\begin{gather}
+	\begin{split}
+		u_\mathrm{D} = 1+x^2+\alpha y^2 + \beta t \hspace{5mm} \text{on} \hspace{5mm} (x,y)\in\Omega
+	\end{split}
+	\end{gather}
+	
+	so the initial condition is
+	
+	\begin{gather}
+	\begin{split}
+	u(x,y,t=0) = u^0 = 1+x^2+\alpha y^2
+	\end{split}
+	\end{gather}
+	
+	
+	
+
+\end{document}
