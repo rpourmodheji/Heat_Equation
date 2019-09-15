@@ -3,3 +3,8 @@
 *.log
 *.gz
 *.xml
+*.bib
+*.bbl
+*.blg
+*.out
+*.gz
