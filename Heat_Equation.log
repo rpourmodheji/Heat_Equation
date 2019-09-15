@@ -1,15 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.29)  13 SEP 2019 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 SEP 2019 20:23
 entering extended mode
-**./Heat_Equation.tex
-(Heat_Equation.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Heat_Equation.tex
+(./Heat_Equation.tex
 LaTeX2e <2018-12-01>
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\arti
-cle.cls"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size
-10.clo"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -24,30 +22,24 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\a
-msmath.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\a
-mstext.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\a
-msgen.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\a
-msbsy.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\a
-msopn.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -88,61 +80,49 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-graphicx.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-keyval.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-graphics.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-trig.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
-cfg\graphics.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
-def\pdftex.def"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-color.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
-cfg\color.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\
-geometry.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
-k\ifpdf.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
-k\ifvtex.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex
-\ifxetex.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count100
@@ -157,26 +137,20 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen120
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks20
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\
-geometry.cfg"))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inpu
-tenc.sty"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\
-hyperref.sty"
-Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
-k\hobsub-hyperref.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
-k\hobsub-generic.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -189,7 +163,7 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -211,98 +185,86 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-auxhook.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-kvoptions.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen122
 \Hy@linkcounter=\count103
 \Hy@pagecounter=\count104
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\
-pd1enc.def"
-File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count105
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\
-hyperref.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
+Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count106
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.s
-ty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5156.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen123
 \Fld@menulength=\count107
 \Field@Width=\dimen124
 \Fld@charsize=\dimen125
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring OFF on input line 6431.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
 \Hy@abspage=\count108
 \c@Item=\count109
 \c@Hfootnote=\count110
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\
-hpdftex.def"
-File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count111
 \c@bookmark@seq@number=\count112
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-rerunfilecheck.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-biblatex.sty"
-Package: biblatex 2019/08/17 v3.13 programmable bibliographies (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\
-etoolbox.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count113
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\lo
-greq.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count114
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\lo
-greq.def"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifth
-en.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count115
@@ -356,16 +318,14 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \bibhang=\skip54
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\blx@langwohyphens=\language82
 \c@mincomprange=\count156
 \c@maxcomprange=\count157
 \c@mincompwidth=\count158
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-blx-dm.def"
-File: blx-dm.def 2019/08/17 v3.13 biblatex localization (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'nature.dbx' not found.
@@ -456,16 +416,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-blx-compat.def"
-File: blx-compat.def 2019/08/17 v3.13 biblatex compatibility (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-blx-bibtex.def"
-File: blx-bibtex.def 2019/08/17 v3.13 biblatex compatibility (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
@@ -474,65 +432,51 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-biblatex.def"
-File: biblatex.def 2019/08/17 v3.13 biblatex compatibility (PK/MW)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@textcitecount=\count293
 \c@textcitetotal=\count294
 \c@textcitemaxnames=\count295
-\c@biburlbigbreakpenalty=\count296
-\c@biburlbreakpenalty=\count297
-\c@biburlnumpenalty=\count298
-\c@biburlucpenalty=\count299
-\c@biburllcpenalty=\count300
-\biburlbigskip=\muskip12
-\biburlnumskip=\muskip13
-\biburlucskip=\muskip14
-\biburllcskip=\muskip15
-\c@smartand=\count301
+\c@biburlnumpenalty=\count296
+\c@biburlucpenalty=\count297
+\c@biburllcpenalty=\count298
+\c@smartand=\count299
 )
 Package biblatex Info: Trying to load bibliography style 'nature'...
 Package biblatex Info: ... file 'nature.bbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-
-nature\nature.bbx"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex-nature/nature.bbx
 File: nature.bbx 2018/10/18 v1.3c biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/
-bbx\numeric-comp.bbx"
-File: numeric-comp.bbx 2019/08/17 v3.13 biblatex bibliography style (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/
-bbx\numeric.bbx"
-File: numeric.bbx 2019/08/17 v3.13 biblatex bibliography style (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/
-bbx\standard.bbx"
-File: standard.bbx 2019/08/17 v3.13 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count302
-\c@bbx:relatedtotal=\count303
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count300
+\c@bbx:relatedtotal=\count301
 ))))
 Package biblatex Info: Trying to load citation style 'nature'...
 Package biblatex Info: ... file 'nature.cbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-
-nature\nature.cbx"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex-nature/nature.cbx
 File: nature.cbx 2018/10/18 v1.3c biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/
-cbx\numeric-comp.cbx"
-File: numeric-comp.cbx 2019/08/17 v3.13 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count304
-\c@cbx@tempcntb=\count305
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count302
+\c@cbx@tempcntb=\count303
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -548,124 +492,97 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\
-biblatex.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\b
-abel.sty"
-Package: babel 2019/07/19 3.33 The Babel package
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\s
-witch.def"
-File: switch.def 2019/07/19 3.33 Babel switching mechanism
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bbl
-opts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-eng
-lish\english.ldf"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\b
-abel.def"
-File: babel.def 2019/07/19 3.33 Babel common definitions
-\babel@savecnt=\count306
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count304
 \U@D=\dimen126
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\t
-xtbabel.def")
-\bbl@dirlevel=\count307
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count305
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\
-mathrsfs.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup4
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\
-amssymb.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\
-amsfonts.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\late
-xsym.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\
-setspace.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/overpic\o
-verpic.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/overpic/overpic.sty
 Package: overpic 2018/09/02 1.2 picture overlays (RN)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eepic\epi
-c.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/eepic/epic.sty
 Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
-\@@multicnt=\count308
-\d@lta=\count309
+\@@multicnt=\count306
+\d@lta=\count307
 \@delta=\dimen127
 \@@delta=\dimen128
-\@gridcnt=\count310
-\@joinkind=\count311
+\@gridcnt=\count308
+\@joinkind=\count309
 \@dotgap=\dimen129
 \@ddotgap=\dimen130
-\@x@diff=\count312
-\@y@diff=\count313
+\@x@diff=\count310
+\@y@diff=\count311
 \x@diff=\dimen131
 \y@diff=\dimen132
 \@dotbox=\box29
-\num@segments=\count314
-\num@segmentsi=\count315
+\num@segments=\count312
+\num@segmentsi=\count313
 \@datafile=\read2
 )
 \OVP@box=\box30
-)
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\
-mdframed.sty"
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3package
-s/xparse\xparse.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\
-expl3.sty"
-Package: expl3 2019-08-14 L3 programming layer (loader) 
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-05-07 L3 programming layer (loader) 
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\
-expl3-code.tex"
-Package: expl3 2019-08-14 L3 programming layer (code)
-\c_max_int=\count316
-\l_tmpa_int=\count317
-\l_tmpb_int=\count318
-\g_tmpa_int=\count319
-\g_tmpb_int=\count320
-\g__kernel_prg_map_int=\count321
-\c__ior_term_noprompt_ior=\count322
-\c_log_iow=\count323
-\l_iow_line_count_int=\count324
-\l__iow_line_target_int=\count325
-\l__iow_one_indent_int=\count326
-\l__iow_indent_int=\count327
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-05-07 L3 programming layer (code)
+\c_max_int=\count314
+\l_tmpa_int=\count315
+\l_tmpb_int=\count316
+\g_tmpa_int=\count317
+\g_tmpb_int=\count318
+\g__kernel_prg_map_int=\count319
+\c__ior_term_ior=\count320
+\c_log_iow=\count321
+\l_iow_line_count_int=\count322
+\l__iow_line_target_int=\count323
+\l__iow_one_indent_int=\count324
+\l__iow_indent_int=\count325
 \c_zero_dim=\dimen133
 \c_max_dim=\dimen134
 \l_tmpa_dim=\dimen135
@@ -678,86 +595,84 @@ Package: expl3 2019-08-14 L3 programming layer (code)
 \l_tmpb_skip=\skip72
 \g_tmpa_skip=\skip73
 \g_tmpb_skip=\skip74
-\c_zero_muskip=\muskip16
-\c_max_muskip=\muskip17
-\l_tmpa_muskip=\muskip18
-\l_tmpb_muskip=\muskip19
-\g_tmpa_muskip=\muskip20
-\g_tmpb_muskip=\muskip21
-\l_keys_choice_int=\count328
-\l__intarray_loop_int=\count329
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count326
+\l__intarray_loop_int=\count327
 \c__intarray_sp_dim=\dimen139
-\g__intarray_font_int=\count330
-\c__fp_leading_shift_int=\count331
-\c__fp_middle_shift_int=\count332
-\c__fp_trailing_shift_int=\count333
-\c__fp_big_leading_shift_int=\count334
-\c__fp_big_middle_shift_int=\count335
-\c__fp_big_trailing_shift_int=\count336
-\c__fp_Bigg_leading_shift_int=\count337
-\c__fp_Bigg_middle_shift_int=\count338
-\c__fp_Bigg_trailing_shift_int=\count339
-\c__kernel_randint_max_int=\count340
-\g__fp_array_int=\count341
-\l__fp_array_loop_int=\count342
-\l__sort_length_int=\count343
-\l__sort_min_int=\count344
-\l__sort_top_int=\count345
-\l__sort_max_int=\count346
-\l__sort_true_max_int=\count347
-\l__sort_block_int=\count348
-\l__sort_begin_int=\count349
-\l__sort_end_int=\count350
-\l__sort_A_int=\count351
-\l__sort_B_int=\count352
-\l__sort_C_int=\count353
-\l__str_internal_int=\count354
-\c__str_replacement_char_int=\count355
-\l__tl_analysis_normal_int=\count356
-\l__tl_analysis_index_int=\count357
-\l__tl_analysis_nesting_int=\count358
-\l__tl_analysis_type_int=\count359
-\l__regex_internal_a_int=\count360
-\l__regex_internal_b_int=\count361
-\l__regex_internal_c_int=\count362
-\l__regex_balance_int=\count363
-\l__regex_group_level_int=\count364
-\l__regex_mode_int=\count365
-\c__regex_cs_in_class_mode_int=\count366
-\c__regex_cs_mode_int=\count367
-\l__regex_catcodes_int=\count368
-\l__regex_default_catcodes_int=\count369
-\c__regex_catcode_D_int=\count370
-\c__regex_catcode_S_int=\count371
-\c__regex_catcode_L_int=\count372
-\c__regex_catcode_O_int=\count373
-\c__regex_catcode_A_int=\count374
-\c__regex_all_catcodes_int=\count375
-\l__regex_show_lines_int=\count376
-\l__regex_min_state_int=\count377
-\l__regex_max_state_int=\count378
-\l__regex_left_state_int=\count379
-\l__regex_right_state_int=\count380
-\l__regex_capturing_group_int=\count381
-\l__regex_min_pos_int=\count382
-\l__regex_max_pos_int=\count383
-\l__regex_curr_pos_int=\count384
-\l__regex_start_pos_int=\count385
-\l__regex_success_pos_int=\count386
-\l__regex_curr_char_int=\count387
-\l__regex_curr_catcode_int=\count388
-\l__regex_last_char_int=\count389
-\l__regex_case_changed_char_int=\count390
-\l__regex_curr_state_int=\count391
-\l__regex_step_int=\count392
-\l__regex_min_active_int=\count393
-\l__regex_max_active_int=\count394
-\l__regex_replacement_csnames_int=\count395
-\l__regex_match_count_int=\count396
-\l__regex_min_submatch_int=\count397
-\l__regex_submatch_int=\count398
-\l__regex_zeroth_submatch_int=\count399
-\g__regex_trace_regex_int=\count400
+\g__intarray_font_int=\count328
+\c__fp_leading_shift_int=\count329
+\c__fp_middle_shift_int=\count330
+\c__fp_trailing_shift_int=\count331
+\c__fp_big_leading_shift_int=\count332
+\c__fp_big_middle_shift_int=\count333
+\c__fp_big_trailing_shift_int=\count334
+\c__fp_Bigg_leading_shift_int=\count335
+\c__fp_Bigg_middle_shift_int=\count336
+\c__fp_Bigg_trailing_shift_int=\count337
+\c__kernel_randint_max_int=\count338
+\g__fp_array_int=\count339
+\l__fp_array_loop_int=\count340
+\l__sort_length_int=\count341
+\l__sort_min_int=\count342
+\l__sort_top_int=\count343
+\l__sort_max_int=\count344
+\l__sort_true_max_int=\count345
+\l__sort_block_int=\count346
+\l__sort_begin_int=\count347
+\l__sort_end_int=\count348
+\l__sort_A_int=\count349
+\l__sort_B_int=\count350
+\l__sort_C_int=\count351
+\l__tl_analysis_normal_int=\count352
+\l__tl_analysis_index_int=\count353
+\l__tl_analysis_nesting_int=\count354
+\l__tl_analysis_type_int=\count355
+\l__regex_internal_a_int=\count356
+\l__regex_internal_b_int=\count357
+\l__regex_internal_c_int=\count358
+\l__regex_balance_int=\count359
+\l__regex_group_level_int=\count360
+\l__regex_mode_int=\count361
+\c__regex_cs_in_class_mode_int=\count362
+\c__regex_cs_mode_int=\count363
+\l__regex_catcodes_int=\count364
+\l__regex_default_catcodes_int=\count365
+\c__regex_catcode_D_int=\count366
+\c__regex_catcode_S_int=\count367
+\c__regex_catcode_L_int=\count368
+\c__regex_catcode_O_int=\count369
+\c__regex_catcode_A_int=\count370
+\c__regex_all_catcodes_int=\count371
+\l__regex_show_lines_int=\count372
+\l__regex_min_state_int=\count373
+\l__regex_max_state_int=\count374
+\l__regex_left_state_int=\count375
+\l__regex_right_state_int=\count376
+\l__regex_capturing_group_int=\count377
+\l__regex_min_pos_int=\count378
+\l__regex_max_pos_int=\count379
+\l__regex_curr_pos_int=\count380
+\l__regex_start_pos_int=\count381
+\l__regex_success_pos_int=\count382
+\l__regex_curr_char_int=\count383
+\l__regex_curr_catcode_int=\count384
+\l__regex_last_char_int=\count385
+\l__regex_case_changed_char_int=\count386
+\l__regex_curr_state_int=\count387
+\l__regex_step_int=\count388
+\l__regex_min_active_int=\count389
+\l__regex_max_active_int=\count390
+\l__regex_replacement_csnames_int=\count391
+\l__regex_match_count_int=\count392
+\l__regex_min_submatch_int=\count393
+\l__regex_submatch_int=\count394
+\l__regex_zeroth_submatch_int=\count395
+\g__regex_trace_regex_int=\count396
 \c_empty_box=\box31
 \l_tmpa_box=\box32
 \l_tmpb_box=\box33
@@ -802,42 +717,38 @@ Package: expl3 2019-08-14 L3 programming layer (code)
 \l__coffin_display_x_dim=\dimen163
 \l__coffin_display_y_dim=\dimen164
 \g__file_internal_ior=\read3
-\l__seq_internal_a_int=\count401
-\l__seq_internal_b_int=\count402
+\l__seq_internal_a_int=\count397
+\l__seq_internal_b_int=\count398
+\c__deprecation_minus_one=\count399
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend
-\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2019-04-06 v L3 Experimental backend support: PDF m
-ode
-\l__kernel_color_stack_int=\count403
-\l__pdf_internal_box=\box49
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count400
+\l__driver_pdf_tmp_box=\box49
 ))
-Package: xparse 2019-05-28 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count404
-\g__xparse_grabber_int=\count405
-\l__xparse_m_args_int=\count406
-\l__xparse_v_nesting_int=\count407
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count401
+\g__xparse_grabber_int=\count402
+\l__xparse_m_args_int=\count403
+\l__xparse_v_nesting_int=\count404
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-zref-abspage.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-zref-base.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/zref-base.sty
 Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count408
+\c@abspage=\count405
 Package zref Info: New property: abspage on input line 62.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/needspace
-\needspace.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip75
-\c@mdf@globalstyle@cnt=\count409
+\c@mdf@globalstyle@cnt=\count406
 \mdf@skipabove@length=\skip76
 \mdf@skipbelow@length=\skip77
 \mdf@leftmargin@length=\skip78
@@ -878,8 +789,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitleinneraboveskip@length=\skip113
 \mdf@subsubtitleinnerbelowskip@length=\skip114
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\
-md-frame-0.mdf"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box50
@@ -914,20 +824,19 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip139
 \mdfsubtitleheight=\skip140
 \mdfsubsubtitleheight=\skip141
-\c@mdfcountframes=\count410
+\c@mdfcountframes=\count407
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count411
-\c@mdf@env@i=\count412
-\c@mdf@env@ii=\count413
-\c@mdf@zref@counter=\count414
+\mdf@envdepth=\count408
+\c@mdf@env@i=\count409
+\c@mdf@env@ii=\count410
+\c@mdf@zref@counter=\count411
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\fr
-amed.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip142
 \fb@frw=\dimen165
@@ -935,8 +844,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen167
 \FrameSep=\dimen168
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup8
 \symboldletters=\mathgroup9
@@ -945,42 +853,37 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bigints\b
-igints.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/bigints/bigints.sty
 Package: bigints 2010/02/15 Writing big integrals
 Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\r
-elsize.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools
-\mathtools.sty"
-Package: mathtools 2019/07/31 v1.22 mathematical typesetting tools
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\cal
-c.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count415
-\calc@Bcount=\count416
+\calc@Acount=\count412
+\calc@Bcount=\count413
 \calc@Adimen=\dimen169
 \calc@Bdimen=\dimen170
 \calc@Askip=\skip143
 \calc@Bskip=\skip144
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count417
+\calc@Ccount=\count414
 \calc@Cskip=\skip145
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools
-\mhsetup.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count418
+\g_MT_multlinerow_int=\count415
 \l_MT_multwidth_dim=\dimen171
 \origjot=\skip146
 \l_MT_shortvdotswithinadjustabove_dim=\dimen172
@@ -990,8 +893,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen176
 \l_MT_below_shortintertext_sep=\dimen177
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/scalerel\
-scalerel.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/scalerel/scalerel.sty
 Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
 ng of objects, relative to a reference object or in absolute terms
 \thesrwidth=\skip147
@@ -1002,29 +904,26 @@ ng of objects, relative to a reference object or in absolute terms
 \LMex=\skip152
 \LMpt=\skip153
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\
-appendix.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count419
-\c@@ppsavesec=\count420
-\c@@ppsaveapp=\count421
+\c@@pps=\count416
+\c@@ppsavesec=\count417
+\c@@ppsaveapp=\count418
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chngcntr\
-chngcntr.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools
-\empheq.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/empheq.sty
 Package: empheq 2017/03/31 v2.15 Emphasizing equations
-\l_EQ_equationtype_int=\count422
-\l_EQ_alignmentmode_int=\count423
+\l_EQ_equationtype_int=\count419
+\l_EQ_alignmentmode_int=\count420
 \l_EQ_totalwidth_dim=\dimen178
 \l_EQ_displaywidth_dim=\dimen179
 \l_EQ_temp_linewidth_dim=\dimen180
 \EmphEqdelimitershortfall=\dimen181
-\EmphEqdelimiterfactor=\count424
+\EmphEqdelimiterfactor=\count421
 \g_EQ_toptag_height_dim=\dimen182
 \g_EQ_bottomtag_depth_dim=\dimen183
 \g_EQ_toprow_height_dim=\dimen184
@@ -1032,19 +931,17 @@ Package: empheq 2017/03/31 v2.15 Emphasizing equations
 \g_EQ_widesttag_dim=\dimen186
 \EQ_mathdisplay_box=\box55
 \EQ_tag_box=\box56
-\g_EQ_temprow_int=\count425
+\g_EQ_temprow_int=\count422
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\
-rotating.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count426
+\c@r@tfl@t=\count423
 \rotFPtop=\skip154
 \rotFPbot=\skip155
 \rot@float@box=\box57
 \rot@mess@toks=\toks23
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\arr
-ay.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen187
 \ar@mcellbox=\box58
@@ -1054,23 +951,20 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \backup@length=\skip157
 \ar@cellbox=\box59
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tab
-ularx.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 \TX@col@width=\dimen189
 \TX@old@table=\dimen190
 \TX@old@col=\dimen191
 \TX@target=\dimen192
 \TX@delta=\dimen193
-\TX@cols=\count427
+\TX@cols=\count424
 \TX@ftn=\toks25
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\c
-aption.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\c
-aption3.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen194
@@ -1081,74 +975,58 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen199
 \caption@hangindent=\dimen256
 )
-\c@caption@flags=\count428
-\c@ContinuedFloat=\count429
+\c@caption@flags=\count425
+\c@ContinuedFloat=\count426
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\s
-ubcaption.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
-\c@subfigure=\count430
-\c@subtable=\count431
+\c@subfigure=\count427
+\c@subtable=\count428
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\
-multirow.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip158
-\multirow@cntb=\count432
+\multirow@cntb=\count429
 \multirow@dima=\skip159
 \bigstrutjot=\dimen257
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/calrsfs\c
-alrsfs.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/calrsfs/calrsfs.sty
 \symrsfscript=\mathgroup12
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/front
-endlayer\tikz.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basic
-layer\pgf.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utili
-ties\pgfrcs.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfutil-common.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks26
 \pgfutil@tempdima=\dimen258
 \pgfutil@tempdimb=\dimen259
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfutil-common-lists.tex"))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfutil-latex.def"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box60
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everys
-hi.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfrcs.code.tex"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf
-.revision.tex")
-Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
 ))
-Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basic
-layer\pgfcore.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/syste
-mlayer\pgfsys.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgfsys.code.tex"
-Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfkeys.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks27
 \pgfkeys@temptoks=\toks28
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfkeysfiltered.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks29
 ))
 \pgf@x=\dimen260
@@ -1159,49 +1037,43 @@ lities\pgfkeysfiltered.code.tex"
 \pgf@yb=\dimen265
 \pgf@xc=\dimen266
 \pgf@yc=\dimen267
-\pgf@xd=\dimen268
-\pgf@yd=\dimen269
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count433
-\c@pgf@countb=\count434
-\c@pgf@countc=\count435
-\c@pgf@countd=\count436
+\c@pgf@counta=\count430
+\c@pgf@countb=\count431
+\c@pgf@countc=\count432
+\c@pgf@countd=\count433
 \t@pgf@toka=\toks30
 \t@pgf@tokb=\toks31
 \t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count437
+\pgf@sys@id@count=\count434
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgf.cfg"
-File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count438
-\pgfsyssoftpath@bigbuffer@items=\count439
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count435
+\pgfsyssoftpath@bigbuffer@items=\count436
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/sys
-temlayer\pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xc
-olor.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-
-cfg\color.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -1216,230 +1088,211 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcore.code.tex"
-Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmath.code.tex"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathcalc.code.tex"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathutil.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen270
-\pgfmath@count=\count440
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen268
+\pgfmath@count=\count437
 \pgfmath@box=\box61
 \pgfmath@toks=\toks33
 \pgfmath@stack@operand=\toks34
 \pgfmath@stack@operation=\toks35
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.code.tex"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.basic.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.trigonometric.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.random.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.comparison.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.base.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.round.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.misc.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfunctions.integerarithmetics.code.tex")))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count441
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count438
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfint.code.tex")
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen271
-\pgf@picmaxx=\dimen272
-\pgf@picminy=\dimen273
-\pgf@picmaxy=\dimen274
-\pgf@pathminx=\dimen275
-\pgf@pathmaxx=\dimen276
-\pgf@pathminy=\dimen277
-\pgf@pathmaxy=\dimen278
-\pgf@xx=\dimen279
-\pgf@xy=\dimen280
-\pgf@yx=\dimen281
-\pgf@yy=\dimen282
-\pgf@zx=\dimen283
-\pgf@zy=\dimen284
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen269
+\pgf@picmaxx=\dimen270
+\pgf@picminy=\dimen271
+\pgf@picmaxy=\dimen272
+\pgf@pathminx=\dimen273
+\pgf@pathmaxx=\dimen274
+\pgf@pathminy=\dimen275
+\pgf@pathmaxy=\dimen276
+\pgf@xx=\dimen277
+\pgf@xy=\dimen278
+\pgf@yx=\dimen279
+\pgf@yy=\dimen280
+\pgf@zx=\dimen281
+\pgf@zy=\dimen282
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen285
-\pgf@path@lasty=\dimen286
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen283
+\pgf@path@lasty=\dimen284
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen287
-\pgf@shorten@start@additional=\dimen288
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen285
+\pgf@shorten@start@additional=\dimen286
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count442
+\pgf@picture@serial@count=\count439
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen289
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen287
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen290
-\pgf@pt@y=\dimen291
-\pgf@pt@temp=\dimen292
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen288
+\pgf@pt@y=\dimen289
+\pgf@pt@temp=\dimen290
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen293
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen291
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen294
-\pgf@sys@shading@range@num=\count443
-\pgf@shadingcount=\count444
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen292
+\pgf@sys@shading@range@num=\count440
+\pgf@shadingcount=\count441
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfexternal@startupbox=\box65
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/bas
-iclayer\pgfcorerdf.code.tex"
-File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mod
-ules\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfnodeparttextbox=\box66
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mod
-ules\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compa
-tibility\pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen295
-\pgf@nodesepend=\dimen296
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen293
+\pgf@nodesepend=\dimen294
 )
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compa
-tibility\pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utili
-ties\pgffor.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utili
-ties\pgfkeys.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgfkeys.code.tex"))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\
-pgfmath.sty"
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmath.code.tex"))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/uti
-lities\pgffor.code.tex"
-Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mat
-h\pgfmath.code.tex")
-\pgffor@iter=\dimen297
-\pgffor@skip=\dimen298
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen295
+\pgffor@skip=\dimen296
 \pgffor@stack=\toks36
 \pgffor@toks=\toks37
 ))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fro
-ntendlayer/tikz\tikz.code.tex"
-Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/lib
-raries\pgflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count445
-\pgfplotmarksize=\dimen299
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count442
+\pgfplotmarksize=\dimen297
 )
-\tikz@lastx=\dimen300
-\tikz@lasty=\dimen301
-\tikz@lastxsaved=\dimen302
-\tikz@lastysaved=\dimen303
-\tikz@lastmovetox=\dimen304
-\tikz@lastmovetoy=\dimen305
-\tikzleveldistance=\dimen306
-\tikzsiblingdistance=\dimen307
+\tikz@lastx=\dimen298
+\tikz@lasty=\dimen299
+\tikz@lastxsaved=\dimen300
+\tikz@lastysaved=\dimen301
+\tikzleveldistance=\dimen302
+\tikzsiblingdistance=\dimen303
 \tikz@figbox=\box67
 \tikz@figbox@bg=\box68
 \tikz@tempbox=\box69
 \tikz@tempbox@bg=\box70
-\tikztreelevel=\count446
-\tikznumberofchildren=\count447
-\tikznumberofcurrentchild=\count448
-\tikz@fig@count=\count449
+\tikztreelevel=\count443
+\tikznumberofchildren=\count444
+\tikznumberofcurrentchild=\count445
+\tikz@fig@count=\count446
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/mod
-ules\pgfmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count450
-\pgfmatrixcurrentcolumn=\count451
-\pgf@matrix@numberofcolumns=\count452
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count447
+\pgfmatrixcurrentcolumn=\count448
+\pgf@matrix@numberofcolumns=\count449
 )
-\tikz@expandcount=\count453
+\tikz@expandcount=\count450
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fro
-ntendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\
-colortbl.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
 \everycr=\toks38
 \minrowclearance=\skip160
@@ -1448,17 +1301,16 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 60.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/
-lbx\english.lbx"
-File: english.lbx 2019/08/17 v3.13 biblatex localization (PK/MW)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count454
-\@quotereset=\count455
-(Heat_Equation.aux)
+\@quotelevel=\count451
+\@quotereset=\count452
+(./Heat_Equation.aux)
 \openout1 = `Heat_Equation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
@@ -1476,27 +1328,23 @@ LaTeX Font Info:    ... okay on input line 105.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
 LaTeX Font Info:    ... okay on input line 105.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mk
-ii\supp-pdf.mkii"
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count456
-\scratchdimen=\dimen308
+\scratchcounter=\count453
+\scratchdimen=\dimen304
 \scratchbox=\box71
-\nofMPsegments=\count457
-\nofMParguments=\count458
+\nofMPsegments=\count454
+\nofMParguments=\count455
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count459
-\MPscratchDim=\dimen309
-\MPnumerator=\count460
-\makeMPintoPDFobject=\count461
+\MPscratchCnt=\count456
+\MPscratchDim=\dimen305
+\MPnumerator=\count457
+\makeMPintoPDFobject=\count458
 \everyMPtoPDFconversion=\toks40
-)
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-epstopdf-base.sty"
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\
-grfext.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1505,7 +1353,11 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1542,21 +1394,19 @@ G,.JBIG2,.JB2,.eps]
 
 \AtBeginShipoutBox=\box72
 Package hyperref Info: Link coloring ON on input line 105.
-
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\
-nameref.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdie
-k\gettitlestring.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count462
+\c@section@level=\count459
 )
 LaTeX Info: Redefining \ref on input line 105.
 LaTeX Info: Redefining \pageref on input line 105.
 LaTeX Info: Redefining \nameref on input line 105.
- (Heat_Equation.out) (Heat_Equation.out)
+
+(./Heat_Equation.out) (./Heat_Equation.out)
 \@outlinefile=\write5
 \openout5 = `Heat_Equation.out'.
 
@@ -1570,35 +1420,31 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Heat_Equation.bbl' found.
-
-(Heat_Equation.bbl)
+ (./Heat_Equation.bbl)
 Package biblatex Info: Reference section=0 on input line 105.
 Package biblatex Info: Reference segment=0 on input line 105.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- ABD: EveryShipout initializing macros
+
+ABD: EveryShipout initializing macros
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 139.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\
-ursfs.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 139.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\
-umsa.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 139.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\
-umsb.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 139.
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ulas
-y.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
@@ -1608,8 +1454,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 LaTeX Font Info:    Try loading font information for OMS+rsfs on input line 139
 .
 
-("C:\Users\pourmodh.ME417\AppData\Local\Programs\MiKTeX 2.9\tex/latex/calrsfs\o
-msrsfs.fd")
+(/usr/local/texlive/2019/texmf-dist/tex/latex/calrsfs/OMSrsfs.fd)
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
@@ -1621,11 +1466,11 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 192.
 [1
 
-{C:/Users/pourmodh.ME417/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
- (Heat_Equation.aux)
+ (./Heat_Equation.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
 Package rerunfilecheck Info: File `Heat_Equation.out' has not changed.
@@ -1636,30 +1481,28 @@ Package logreq Info: Writing requests to 'Heat_Equation.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
- 37557 strings out of 492895
- 723355 string characters out of 3119532
- 987133 words of memory out of 3000000
- 40913 multiletter control sequences out of 15000+200000
- 546816 words of font info for 85 fonts, out of 3000000 for 9000
+ 36659 strings out of 492616
+ 691376 string characters out of 6129482
+ 960554 words of memory out of 5000000
+ 40026 multiletter control sequences out of 15000+600000
+ 546816 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,25n,65p,1140b,1611s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/pourmodh.ME417/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Users/pourmodh.ME417/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/pourmodh.ME417/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/p
-ourmodh.ME417/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi7.pfb><C:/Users/pourmodh.ME417/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pourmodh.ME417/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pourmodh.ME417/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
-ers/pourmodh.ME417/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr6.pfb><C:/Users/pourmodh.ME417/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr7.pfb><C:/Users/pourmodh.ME417/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pourmodh.ME417/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Heat_Equation.pdf (4 pages, 120347 bytes).
+ 55i,25n,65p,1138b,1611s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Heat_Equation.pdf (4 pages, 108599 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  40 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
