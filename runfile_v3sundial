@@ -1,1 +1,1 @@
-docker run -ti --rm --name HEAT_EQUATION_V3S -v $(pwd):/home/fenics/shared fenics_msucompbiomechlab:v3_sundials
+docker run -ti --rm --name "$@" -v $(pwd):/home/fenics/shared fenics_msucompbiomechlab:v3_sundials

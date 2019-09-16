@@ -1,0 +1,2 @@
+pdflatex Heat_Equation.tex
+bash remove_file
